@@ -134,24 +134,6 @@ export const ICONS: Record<string, (p: P) => ReactNode> = {
       <rect x="14" y="14" width="20" height="20" rx="4" fill="currentColor" />
     </S>
   ),
-  speaker: (p) => (
-    <S {...p}>
-      <path d="M8 18h8l10-8v28l-10-8H8z" fill="currentColor" />
-      <path d="M32 18c3 3 3 9 0 12M36 14c6 6 6 14 0 20" />
-    </S>
-  ),
-  muted: (p) => (
-    <S {...p}>
-      <path d="M8 18h8l10-8v28l-10-8H8z" fill="currentColor" />
-      <path d="M33 19l10 10M43 19L33 29" />
-    </S>
-  ),
-  replay: (p) => (
-    <S {...p}>
-      <path d="M12 24a12 12 0 1 0 4-9" />
-      <path d="M10 8v8h8" />
-    </S>
-  ),
   check: (p) => (
     <S {...p}>
       <path d="M10 25l9 9 19-20" strokeWidth={5} />
