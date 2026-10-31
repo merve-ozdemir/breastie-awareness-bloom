@@ -1,0 +1,226 @@
+{
+  "negators": [
+    "non",
+    "nessun",
+    "nessuna",
+    "senza",
+    "niente"
+  ],
+  "lump": [
+    "nodulo",
+    "pallina",
+    "massa",
+    "grumo",
+    "biglia",
+    "pisello",
+    "qualcosa di rotondo"
+  ],
+  "bump": [
+    "bozzo",
+    "gonfiore",
+    "rigonfiamento"
+  ],
+  "hardening": [
+    "duro",
+    "dura",
+    "indurimento",
+    "rigido",
+    "più duro",
+    "spesso",
+    "ispessito",
+    "teso"
+  ],
+  "dimpling": [
+    "fossetta",
+    "fossette",
+    "buccia d'arancia"
+  ],
+  "indentation": [
+    "rientranza",
+    "incavo",
+    "infossato"
+  ],
+  "redness": [
+    "rosso",
+    "rossa",
+    "arrossamento",
+    "rossore",
+    "rosa",
+    "più scuro",
+    "viola",
+    "eruzione"
+  ],
+  "skin_peeling": [
+    "si sfalda",
+    "desquamazione",
+    "squame",
+    "spella",
+    "chiazza secca",
+    "squamosa"
+  ],
+  "skin_erosion": [
+    "ferita",
+    "crosta",
+    "erosione",
+    "ulcera",
+    "ferita aperta",
+    "pelle aperta"
+  ],
+  "growing_veins": [
+    "vena",
+    "vene"
+  ],
+  "discharge": [
+    "secrezione",
+    "liquido",
+    "sangue",
+    "latte",
+    "perdita",
+    "pus",
+    "bagnato",
+    "fuoriesce"
+  ],
+  "retraction": [
+    "retratto",
+    "rientrato",
+    "verso l'interno"
+  ],
+  "change_in_size": [
+    "più grande",
+    "più piccolo",
+    "più piccola",
+    "dimensione",
+    "gonfio",
+    "gonfia",
+    "cresciuto"
+  ],
+  "no_changes": [
+    "niente",
+    "nessun cambiamento",
+    "normale",
+    "uguale",
+    "come prima",
+    "nessuna differenza"
+  ],
+  "pain_yes": [
+    "dolore",
+    "fa male",
+    "male",
+    "dolorante",
+    "sensibile",
+    "brucia",
+    "pizzica",
+    "pulsante",
+    "doloroso al tatto"
+  ],
+  "pain_no": [
+    "nessun dolore",
+    "non fa male",
+    "senza dolore",
+    "non mi fa male",
+    "indolore"
+  ],
+  "pain_not_sure": [
+    "non sono sicura",
+    "forse",
+    "non so"
+  ],
+  "since": [
+    "da quando",
+    "da"
+  ],
+  "question": [
+    "pericoloso",
+    "pericolosa",
+    "grave",
+    "tumore",
+    "cancro",
+    "devo"
+  ],
+  "both": [
+    "entrambi",
+    "entrambe",
+    "tutti e due"
+  ],
+  "zone_nipple": [
+    "capezzolo",
+    "punta",
+    "cerchio scuro"
+  ],
+  "zone_armpit": [
+    "ascella",
+    "sotto il braccio"
+  ],
+  "left": [
+    "sinistro",
+    "sinistra"
+  ],
+  "right": [
+    "destro",
+    "destra"
+  ],
+  "upper": [
+    "alto",
+    "sopra",
+    "clavicola"
+  ],
+  "lower": [
+    "basso",
+    "sotto",
+    "reggiseno"
+  ],
+  "outer": [
+    "esterno",
+    "verso il braccio"
+  ],
+  "inner": [
+    "interno",
+    "centro",
+    "sterno",
+    "tra i seni"
+  ],
+  "whole": [
+    "tutto il seno",
+    "seno intero"
+  ],
+  "number": [
+    "numero",
+    "regione",
+    "parte"
+  ],
+  "number_words": [
+    "uno",
+    "due",
+    "tre",
+    "quattro",
+    "cinque",
+    "sei",
+    "sette",
+    "otto",
+    "nove",
+    "dieci",
+    "undici",
+    "dodici"
+  ],
+  "connector": [
+    "e",
+    "ma"
+  ],
+  "sore_skin": [
+    "ferita",
+    "crosta",
+    "erosione",
+    "ulcera",
+    "ferita aperta",
+    "pelle aperta"
+  ],
+  "_meta": {
+    "language": "it",
+    "review": "needs native speaker review"
+  },
+  "breast": [
+    "seno",
+    "petto",
+    "mammella"
+  ]
+}

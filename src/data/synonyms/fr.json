@@ -1,0 +1,232 @@
+{
+  "negators": [
+    "pas",
+    "sans",
+    "aucun",
+    "aucune",
+    "ni",
+    "plus"
+  ],
+  "lump": [
+    "boule",
+    "grosseur",
+    "nodule",
+    "masse",
+    "bille",
+    "petit pois",
+    "quelque chose de rond"
+  ],
+  "bump": [
+    "bosse",
+    "gonflement",
+    "renflement"
+  ],
+  "hardening": [
+    "dur",
+    "dure",
+    "durcissement",
+    "ferme",
+    "épais",
+    "épaissi",
+    "raide",
+    "tendu"
+  ],
+  "dimpling": [
+    "fossette",
+    "fossettes",
+    "peau d'orange",
+    "capiton"
+  ],
+  "indentation": [
+    "creux",
+    "enfoncement",
+    "enfoncé"
+  ],
+  "redness": [
+    "rouge",
+    "rougeur",
+    "rougeurs",
+    "rose",
+    "plus foncé",
+    "violet",
+    "éruption"
+  ],
+  "skin_peeling": [
+    "pèle",
+    "desquame",
+    "squames",
+    "peau qui pèle",
+    "sec",
+    "écailleux",
+    "zone sèche"
+  ],
+  "skin_erosion": [
+    "plaie",
+    "croûte",
+    "érosion",
+    "ulcère",
+    "plaie ouverte",
+    "peau à vif",
+    "peau abîmée"
+  ],
+  "growing_veins": [
+    "veine",
+    "veines"
+  ],
+  "discharge": [
+    "écoulement",
+    "liquide",
+    "sang",
+    "lait",
+    "coule",
+    "pus",
+    "humide",
+    "fuit"
+  ],
+  "retraction": [
+    "rentré",
+    "rétracté",
+    "rentre",
+    "vers l'intérieur"
+  ],
+  "change_in_size": [
+    "plus gros",
+    "plus grosse",
+    "plus petit",
+    "plus petite",
+    "taille",
+    "gonflé",
+    "grossi"
+  ],
+  "no_changes": [
+    "rien",
+    "aucun changement",
+    "normal",
+    "pas de changement",
+    "comme avant",
+    "tout va bien"
+  ],
+  "pain_yes": [
+    "douleur",
+    "mal",
+    "douloureux",
+    "douloureuse",
+    "sensible",
+    "fait mal",
+    "brûle",
+    "picote",
+    "élancement",
+    "douloureuse au toucher"
+  ],
+  "pain_no": [
+    "pas de douleur",
+    "pas mal",
+    "aucune douleur",
+    "ne fait pas mal",
+    "indolore"
+  ],
+  "pain_not_sure": [
+    "pas sûre",
+    "pas sûr",
+    "peut-être",
+    "je ne sais pas"
+  ],
+  "since": [
+    "depuis",
+    "il y a"
+  ],
+  "question": [
+    "dangereux",
+    "dangereuse",
+    "grave",
+    "cancer",
+    "est-ce que",
+    "dois-je"
+  ],
+  "both": [
+    "les deux",
+    "deux seins",
+    "des deux côtés"
+  ],
+  "zone_nipple": [
+    "mamelon",
+    "téton",
+    "bout",
+    "cercle foncé"
+  ],
+  "zone_armpit": [
+    "aisselle",
+    "sous le bras"
+  ],
+  "left": [
+    "gauche"
+  ],
+  "right": [
+    "droit",
+    "droite"
+  ],
+  "upper": [
+    "haut",
+    "dessus",
+    "près de la clavicule"
+  ],
+  "lower": [
+    "bas",
+    "dessous",
+    "près du soutien-gorge"
+  ],
+  "outer": [
+    "extérieur",
+    "vers le bras"
+  ],
+  "inner": [
+    "intérieur",
+    "milieu",
+    "centre",
+    "entre les seins"
+  ],
+  "whole": [
+    "tout le sein",
+    "sein entier"
+  ],
+  "number": [
+    "numéro",
+    "région",
+    "partie"
+  ],
+  "number_words": [
+    "un",
+    "deux",
+    "trois",
+    "quatre",
+    "cinq",
+    "six",
+    "sept",
+    "huit",
+    "neuf",
+    "dix",
+    "onze",
+    "douze"
+  ],
+  "connector": [
+    "et",
+    "mais"
+  ],
+  "sore_skin": [
+    "plaie",
+    "croûte",
+    "érosion",
+    "ulcère",
+    "plaie ouverte",
+    "peau à vif",
+    "peau abîmée"
+  ],
+  "_meta": {
+    "language": "fr",
+    "review": "needs native speaker review"
+  },
+  "breast": [
+    "sein",
+    "poitrine"
+  ]
+}

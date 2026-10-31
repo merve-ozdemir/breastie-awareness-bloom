@@ -1,0 +1,248 @@
+{
+  "negators": [
+    "no",
+    "not",
+    "without",
+    "don't",
+    "never"
+  ],
+  "lump": [
+    "lump",
+    "ball",
+    "knot",
+    "mass",
+    "marble",
+    "pea",
+    "something round inside"
+  ],
+  "bump": [
+    "bump",
+    "raised spot",
+    "bulge",
+    "small swelling"
+  ],
+  "hardening": [
+    "hard",
+    "harder",
+    "firm",
+    "stiff",
+    "thick",
+    "thickened",
+    "tight"
+  ],
+  "dimpling": [
+    "dimple",
+    "dimpled",
+    "orange peel",
+    "puckered",
+    "pitted"
+  ],
+  "indentation": [
+    "dent",
+    "sunken",
+    "pulled in",
+    "caved in",
+    "hollow",
+    "flattened"
+  ],
+  "redness": [
+    "red",
+    "pink",
+    "darker",
+    "purple",
+    "discolored",
+    "rash",
+    "flushed"
+  ],
+  "skin_peeling": [
+    "peeling",
+    "flaky",
+    "scaly",
+    "dry patch",
+    "crusty"
+  ],
+  "skin_erosion": [
+    "open sore",
+    "a sore on the skin",
+    "wound",
+    "raw",
+    "broken skin",
+    "ulcer"
+  ],
+  "growing_veins": [
+    "veins",
+    "bigger veins",
+    "more veins",
+    "blue lines"
+  ],
+  "discharge": [
+    "discharge",
+    "liquid",
+    "fluid",
+    "leaking",
+    "wet",
+    "blood",
+    "pus",
+    "milk"
+  ],
+  "retraction": [
+    "pulled in",
+    "inverted",
+    "turned in",
+    "sunk in",
+    "flat"
+  ],
+  "change_in_size": [
+    "bigger",
+    "smaller",
+    "swollen",
+    "size changed",
+    "one is larger"
+  ],
+  "no_changes": [
+    "nothing",
+    "normal",
+    "fine",
+    "same as before",
+    "no changes"
+  ],
+  "pain_yes": [
+    "pain",
+    "painful",
+    "hurts",
+    "hurting",
+    "sore",
+    "ache",
+    "aching",
+    "tender",
+    "sensitive",
+    "burning",
+    "stinging",
+    "throbbing",
+    "sharp",
+    "stabbing"
+  ],
+  "pain_no": [
+    "no pain",
+    "doesn't hurt",
+    "does not hurt",
+    "painless"
+  ],
+  "pain_not_sure": [
+    "not sure",
+    "maybe",
+    "I don't know",
+    "can't tell"
+  ],
+  "since": [
+    "since",
+    "for about",
+    "for a",
+    "for two",
+    "for three",
+    "started"
+  ],
+  "question": [
+    "dangerous",
+    "should i",
+    "is it",
+    "is this",
+    "cancer",
+    "what does",
+    "serious"
+  ],
+  "both": [
+    "both",
+    "both breasts",
+    "both sides"
+  ],
+  "zone_nipple": [
+    "nipple",
+    "tip",
+    "dark circle",
+    "nipples"
+  ],
+  "zone_armpit": [
+    "armpit",
+    "underarm",
+    "under my arm",
+    "armpits"
+  ],
+  "left": [
+    "left"
+  ],
+  "right": [
+    "right"
+  ],
+  "upper": [
+    "top",
+    "upper",
+    "above",
+    "near collarbone"
+  ],
+  "lower": [
+    "bottom",
+    "lower",
+    "below",
+    "near the bra line"
+  ],
+  "outer": [
+    "outside",
+    "outer",
+    "toward my arm",
+    "towards my arm"
+  ],
+  "inner": [
+    "middle",
+    "center",
+    "centre",
+    "inner",
+    "toward the chest bone",
+    "between the breasts"
+  ],
+  "whole": [
+    "whole breast",
+    "entire breast"
+  ],
+  "number": [
+    "number",
+    "region",
+    "part"
+  ],
+  "number_words": [
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "eleven",
+    "twelve"
+  ],
+  "connector": [
+    "and",
+    "but"
+  ],
+  "sore_skin": [
+    "open sore",
+    "a sore on the skin",
+    "wound",
+    "raw",
+    "broken skin",
+    "ulcer"
+  ],
+  "_meta": {
+    "language": "en",
+    "review": "English starter dictionary"
+  },
+  "breast": [
+    "breast",
+    "breasts",
+    "boob",
+    "boobs"
+  ]
+}

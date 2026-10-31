@@ -1,0 +1,230 @@
+{
+  "negators": [
+    "kein",
+    "keine",
+    "keinen",
+    "nicht",
+    "ohne"
+  ],
+  "lump": [
+    "knoten",
+    "knötchen",
+    "kugel",
+    "klumpen",
+    "murmel",
+    "erbse",
+    "etwas rundes"
+  ],
+  "bump": [
+    "beule",
+    "schwellung",
+    "erhebung"
+  ],
+  "hardening": [
+    "hart",
+    "verhärtung",
+    "fest",
+    "verhärtet",
+    "dicker",
+    "verdickt",
+    "steif",
+    "straff"
+  ],
+  "dimpling": [
+    "delle",
+    "dellen",
+    "orangenhaut",
+    "grübchen"
+  ],
+  "indentation": [
+    "einziehung",
+    "eingezogen",
+    "vertiefung"
+  ],
+  "redness": [
+    "rot",
+    "rötung",
+    "gerötet",
+    "rosa",
+    "dunkler",
+    "violett",
+    "ausschlag"
+  ],
+  "skin_peeling": [
+    "schuppig",
+    "schält",
+    "schuppen",
+    "pellt",
+    "trockene stelle",
+    "schuppende haut"
+  ],
+  "skin_erosion": [
+    "wunde",
+    "kruste",
+    "geschwür",
+    "offene haut",
+    "offene wunde",
+    "aufgeriebene haut"
+  ],
+  "growing_veins": [
+    "vene",
+    "venen",
+    "adern"
+  ],
+  "discharge": [
+    "ausfluss",
+    "flüssigkeit",
+    "blut",
+    "milch",
+    "sekret",
+    "eiter",
+    "nass",
+    "läuft aus"
+  ],
+  "retraction": [
+    "eingezogen",
+    "nach innen"
+  ],
+  "change_in_size": [
+    "größer",
+    "kleiner",
+    "größe",
+    "geschwollen"
+  ],
+  "no_changes": [
+    "nichts",
+    "keine veränderung",
+    "normal",
+    "unverändert",
+    "wie vorher",
+    "alles gleich"
+  ],
+  "pain_yes": [
+    "schmerz",
+    "schmerzen",
+    "tut weh",
+    "weh",
+    "schmerzhaft",
+    "empfindlich",
+    "brennt",
+    "sticht",
+    "pocht",
+    "zieht",
+    "druckempfindlich"
+  ],
+  "pain_no": [
+    "keine schmerzen",
+    "kein schmerz",
+    "tut nicht weh",
+    "schmerzfrei"
+  ],
+  "pain_not_sure": [
+    "nicht sicher",
+    "vielleicht",
+    "weiß nicht"
+  ],
+  "since": [
+    "seit",
+    "vor"
+  ],
+  "question": [
+    "gefährlich",
+    "schlimm",
+    "krebs",
+    "ist das",
+    "soll ich",
+    "muss ich"
+  ],
+  "both": [
+    "beide",
+    "beiden",
+    "beidseitig"
+  ],
+  "zone_nipple": [
+    "brustwarze",
+    "nippel",
+    "spitze",
+    "dunkler kreis"
+  ],
+  "zone_armpit": [
+    "achsel",
+    "achselhöhle",
+    "unter dem arm"
+  ],
+  "left": [
+    "links",
+    "linke",
+    "linken"
+  ],
+  "right": [
+    "rechts",
+    "rechte",
+    "rechten"
+  ],
+  "upper": [
+    "oben",
+    "obere",
+    "oberer",
+    "schlüsselbein"
+  ],
+  "lower": [
+    "unten",
+    "untere",
+    "unterer",
+    "bh-linie"
+  ],
+  "outer": [
+    "außen",
+    "aussen",
+    "zum arm"
+  ],
+  "inner": [
+    "innen",
+    "mitte",
+    "brustbein",
+    "zwischen den brüsten"
+  ],
+  "whole": [
+    "ganze brust",
+    "gesamte brust"
+  ],
+  "number": [
+    "nummer",
+    "bereich",
+    "teil"
+  ],
+  "number_words": [
+    "eins",
+    "zwei",
+    "drei",
+    "vier",
+    "fünf",
+    "sechs",
+    "sieben",
+    "acht",
+    "neun",
+    "zehn",
+    "elf",
+    "zwölf"
+  ],
+  "connector": [
+    "und",
+    "aber"
+  ],
+  "sore_skin": [
+    "wunde",
+    "kruste",
+    "geschwür",
+    "offene haut",
+    "offene wunde",
+    "aufgeriebene haut"
+  ],
+  "_meta": {
+    "language": "de",
+    "review": "needs native speaker review"
+  },
+  "breast": [
+    "brust",
+    "busen"
+  ]
+}

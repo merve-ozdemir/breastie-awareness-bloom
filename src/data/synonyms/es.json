@@ -1,0 +1,230 @@
+{
+  "negators": [
+    "no",
+    "sin",
+    "ningún",
+    "ninguna",
+    "ni"
+  ],
+  "lump": [
+    "bulto",
+    "bolita",
+    "masa",
+    "nódulo",
+    "canica",
+    "guisante",
+    "algo redondo"
+  ],
+  "bump": [
+    "protuberancia",
+    "hinchazón",
+    "chichón"
+  ],
+  "hardening": [
+    "duro",
+    "dura",
+    "endurecimiento",
+    "firme",
+    "más duro",
+    "grueso",
+    "engrosado",
+    "rígido",
+    "tenso"
+  ],
+  "dimpling": [
+    "hoyuelo",
+    "hoyuelos",
+    "piel de naranja"
+  ],
+  "indentation": [
+    "hundimiento",
+    "hundido",
+    "hendidura"
+  ],
+  "redness": [
+    "rojo",
+    "roja",
+    "enrojecimiento",
+    "rojez",
+    "rosa",
+    "más oscuro",
+    "morado",
+    "sarpullido"
+  ],
+  "skin_peeling": [
+    "se pela",
+    "descamación",
+    "escamas",
+    "pelando",
+    "parche seco",
+    "escamoso"
+  ],
+  "skin_erosion": [
+    "herida",
+    "costra",
+    "erosión",
+    "úlcera",
+    "llaga abierta",
+    "piel abierta"
+  ],
+  "growing_veins": [
+    "vena",
+    "venas"
+  ],
+  "discharge": [
+    "secreción",
+    "líquido",
+    "sangre",
+    "leche",
+    "supura",
+    "pus",
+    "mojado",
+    "gotea"
+  ],
+  "retraction": [
+    "retraído",
+    "hacia dentro",
+    "hacia adentro",
+    "metido"
+  ],
+  "change_in_size": [
+    "más grande",
+    "más pequeño",
+    "más pequeña",
+    "tamaño",
+    "hinchado",
+    "creció"
+  ],
+  "no_changes": [
+    "nada",
+    "ningún cambio",
+    "normal",
+    "igual",
+    "como antes",
+    "sin cambios"
+  ],
+  "pain_yes": [
+    "dolor",
+    "duele",
+    "me duele",
+    "doloroso",
+    "sensible",
+    "arde",
+    "escuece",
+    "punza",
+    "palpita",
+    "dolor al tocar"
+  ],
+  "pain_no": [
+    "no duele",
+    "no me duele",
+    "sin dolor",
+    "ningún dolor"
+  ],
+  "pain_not_sure": [
+    "no estoy segura",
+    "quizás",
+    "tal vez",
+    "no sé"
+  ],
+  "since": [
+    "desde",
+    "hace"
+  ],
+  "question": [
+    "peligroso",
+    "peligrosa",
+    "grave",
+    "cáncer",
+    "debo",
+    "es malo"
+  ],
+  "both": [
+    "ambos",
+    "ambas",
+    "los dos"
+  ],
+  "zone_nipple": [
+    "pezón",
+    "punta",
+    "círculo oscuro"
+  ],
+  "zone_armpit": [
+    "axila",
+    "debajo del brazo"
+  ],
+  "left": [
+    "izquierdo",
+    "izquierda"
+  ],
+  "right": [
+    "derecho",
+    "derecha"
+  ],
+  "upper": [
+    "arriba",
+    "superior",
+    "clavícula"
+  ],
+  "lower": [
+    "abajo",
+    "inferior",
+    "línea del sujetador"
+  ],
+  "outer": [
+    "fuera",
+    "exterior",
+    "hacia el brazo"
+  ],
+  "inner": [
+    "dentro",
+    "interior",
+    "centro",
+    "esternón",
+    "entre los senos"
+  ],
+  "whole": [
+    "todo el seno",
+    "seno entero"
+  ],
+  "number": [
+    "número",
+    "región",
+    "parte"
+  ],
+  "number_words": [
+    "uno",
+    "dos",
+    "tres",
+    "cuatro",
+    "cinco",
+    "seis",
+    "siete",
+    "ocho",
+    "nueve",
+    "diez",
+    "once",
+    "doce"
+  ],
+  "connector": [
+    "y",
+    "pero"
+  ],
+  "sore_skin": [
+    "herida",
+    "costra",
+    "erosión",
+    "úlcera",
+    "llaga abierta",
+    "piel abierta"
+  ],
+  "_meta": {
+    "language": "es",
+    "review": "needs native speaker review"
+  },
+  "breast": [
+    "pecho",
+    "seno",
+    "mama"
+  ]
+}

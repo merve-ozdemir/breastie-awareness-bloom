@@ -1,0 +1,5 @@
+[{"capability":"code","source":"archive","outcome":"migrate","status":"done","next_action":"none"},
+{"capability":"schema (speech_cache, ai_access_state)","source":"drizzle migration","outcome":"migrate","status":"done","next_action":"none"},
+{"capability":"records","source":"server cache only","outcome":"not needed","status":"accepted","next_action":"none; exam data lives on-device"},
+{"capability":"auth","source":"none (no accounts)","outcome":"n/a","status":"accepted","next_action":"none"},
+{"capability":"AI transcription/speech","source":"Lovable AI","outcome":"migrate","status":"pending-verify","next_action":"test real recording"}]
