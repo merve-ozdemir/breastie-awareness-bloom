@@ -6,7 +6,7 @@ const schema=z.object({lang:z.enum(['en','fr','de','it','es']),text:z.string().m
 // Kore is the fixed female voice for each language; keep per-language mapping explicit.
 const FEMALE_VOICES={en:'Kore',fr:'Kore',de:'Kore',it:'Kore',es:'Kore'};
 export async function handleSpeak(request:Request){
- let lang='en';try{sameOrigin(request);const data=schema.parse(JSON.parse(await(await limitedBody(request,20000)).text()));lang=data.lang;
+ let lang='en';try{sameOrigin(request);let input:unknown;try{input=JSON.parse(await(await limitedBody(request,20000)).text());}catch(error){if(error instanceof GatewayError)throw error;throw new GatewayError(400,'Invalid speech request.');}const parsed=schema.safeParse(input);if(!parsed.success)throw new GatewayError(400,'Invalid speech request.');const data=parsed.data;lang=data.lang;
  const key=process.env['LOVABLE_API_KEY'];if(!key)throw new GatewayError(401,'Speech service is not configured.');
  await accessState('speech');
  const hash=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(`${data.lang}:${FEMALE_VOICES[data.lang]}:${data.text}`));const cacheKey=Array.from(new Uint8Array(hash)).map(v=>v.toString(16).padStart(2,'0')).join('');
