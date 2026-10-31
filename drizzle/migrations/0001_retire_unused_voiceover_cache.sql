@@ -1,0 +1,2 @@
+COMMENT ON TABLE public.speech_cache IS 'DEPRECATED: voiceover feature removed; unused by the app. Retained because destructive schema changes are restricted.';
+REVOKE ALL ON TABLE public.speech_cache FROM anon, authenticated, service_role;
